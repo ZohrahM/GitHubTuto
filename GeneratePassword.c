@@ -4,6 +4,8 @@
 #include<ctype.h>
 #include<time.h>
 
+#generating a change
+
 int checkIfSentence( char line[], int index);
 char *reverse(char edited[],char line[], int index);
 void generatePassword(char line[], int index, char password[]);
