@@ -10,6 +10,7 @@ void generatePassword(char line[], int index, char password[]);
 
 int main()
 {
+    printf("HELLO WORLD ----------------------\n");
     char sentence[100];
     int check;
     char password[100]=" ";
